@@ -1,0 +1,7 @@
+D:\Projects\DiceScorer\DiceScorer\obj\Debug\DiceScorer.csproj.CoreCompileInputs.cache
+D:\Projects\DiceScorer\DiceScorer\bin\Debug\DiceScorer.exe.config
+D:\Projects\DiceScorer\DiceScorer\bin\Debug\DiceScorer.exe
+D:\Projects\DiceScorer\DiceScorer\bin\Debug\DiceScorer.pdb
+D:\Projects\DiceScorer\DiceScorer\obj\Debug\DiceScorer.exe
+D:\Projects\DiceScorer\DiceScorer\obj\Debug\DiceScorer.pdb
+D:\Projects\DiceScorer\DiceScorer\obj\Debug\DiceScorer.csprojResolveAssemblyReference.cache
